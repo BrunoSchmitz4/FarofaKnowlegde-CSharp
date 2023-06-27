@@ -7,7 +7,7 @@ namespace DecTerAplicativo.Classes
     class Produto
     {
 
-        // Properties Variáveis
+        // Properties "Variáveis"
         public string Nome { get; set; }
         //public int Id { get; set; }
         public double Valor { get; set; }
@@ -16,7 +16,7 @@ namespace DecTerAplicativo.Classes
         // Constructor
         public Produto() { }
 
-        // Methods - Funções
+        // Methods - "Funções"
 
         // CRUD - C
         public void CriaProduto()
